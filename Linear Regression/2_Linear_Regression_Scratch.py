@@ -1,5 +1,7 @@
+# Linear Regression from Scratch
 import numpy as np
 
+# Dataset
 x = np.array([1,2,3,4,5])
 y = np.array([2,4,6,8,14])
 
